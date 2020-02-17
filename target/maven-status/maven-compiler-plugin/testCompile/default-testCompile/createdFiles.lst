@@ -1,2 +1,3 @@
+stepDefinitions/BaseClass.class
 testRunner/testRunner.class
 stepDefinitions/OrangeHRMsteps.class

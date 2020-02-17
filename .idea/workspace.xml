@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae583aa5-20f4-4bed-9532-b6d3e99b3d59" name="Default Changelist" comment="" />
+    <list default="true" id="ae583aa5-20f4-4bed-9532-b6d3e99b3d59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/OrangeHRM.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/OrangeHRM.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMsteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMsteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/testRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/testRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SeleniumCucumber-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SeleniumCucumber-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrangeHRMsteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/OrangeHRMsteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testRunner/testRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testRunner/testRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XkffTiNnrlELXNwm9tbUTAn3TU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -113,5 +133,18 @@
       <updated>1581595115396</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

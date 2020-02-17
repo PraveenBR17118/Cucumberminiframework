@@ -7,14 +7,22 @@ formatter.feature({
 formatter.scenario({
   "name": "Logo presence on OrangeHRM home page",
   "description": "",
-  "keyword": "Scenario"
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@sanity"
+    }
+  ]
+});
+formatter.before({
+  "status": "passed"
 });
 formatter.step({
-  "name": "I launch chrome browser",
+  "name": "I launch desired browser",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "stepDefinitions.OrangeHRMsteps.i_launch_chrome_browser()"
+  "location": "stepDefinitions.OrangeHRMsteps.i_launch_desired_browser()"
 });
 formatter.result({
   "status": "passed"

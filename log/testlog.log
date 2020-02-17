@@ -1,0 +1,16 @@
+2020-02-17 13:03:38,933 - SeleniumCucumber -INFO - Launching the chrome browser
+2020-02-17 13:03:46,388 - SeleniumCucumber -INFO - Opening the URL
+2020-02-17 13:03:50,470 - SeleniumCucumber -INFO - Verfying the logo
+2020-02-17 13:03:54,475 - SeleniumCucumber -WARN - colosing the browser
+2020-02-17 15:26:29,232 - SeleniumCucumber -INFO - Launching the chrome browser
+2020-02-17 15:26:36,782 - SeleniumCucumber -INFO - Opening the URL
+2020-02-17 15:26:40,866 - SeleniumCucumber -INFO - Verfying the logo
+2020-02-17 15:26:44,874 - SeleniumCucumber -WARN - colosing the browser
+2020-02-17 15:31:41,008 - SeleniumCucumber -INFO - Launching the chrome browser
+2020-02-17 15:31:49,018 - SeleniumCucumber -INFO - Opening the URL
+2020-02-17 15:31:53,102 - SeleniumCucumber -INFO - Verfying the logo
+2020-02-17 15:31:57,109 - SeleniumCucumber -WARN - colosing the browser
+2020-02-17 16:02:58,711 - SeleniumCucumber -INFO - Launching the firefox browser
+2020-02-17 16:03:06,281 - SeleniumCucumber -INFO - Opening the URL
+2020-02-17 16:03:10,373 - SeleniumCucumber -INFO - Verfying the logo
+2020-02-17 16:03:14,381 - SeleniumCucumber -WARN - colosing the browser

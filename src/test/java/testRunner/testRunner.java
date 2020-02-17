@@ -10,9 +10,11 @@ import org.junit.runner.RunWith;
         glue = "stepDefinitions",
         dryRun = false , // Cross check every feature file step is contains a correspondence step data or not
         monochrome = true ,
-        plugin = {"pretty" , "html:test-output"}
+        plugin = {"pretty" , "html:test-output"},
+        tags = {"@sanity"}
 )
 public class testRunner
 {
 
 }
+//dkjkds
